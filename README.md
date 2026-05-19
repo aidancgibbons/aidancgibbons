@@ -30,21 +30,21 @@ Over the past couple of years I've been focused on two projects:
 ### [OARU](https://oaru.ca) — *Optimize Academic Results Universally*
 *Personal project · Jan 2026 – Present*
 
-Co-founded an ed-tech platform and led product work: PRDs, user flows, and feature prioritization to ship core functionality. Used **SQL** to help structure the database and organize data across schools.
+<li>Co-founded an ed-tech platform and led product work: PRDs, user flows, and feature prioritization to ship core functionality. Used **SQL** to help structure the database and organize data across schools.</li>
 
 ### AgriLink
 *School project · Jan 2025 – Apr 2026*
 
-Led as product manager for an agriculture-focused digital marketplace — platform vision, user needs, PRDs, and cross-functional delivery with a focus on usability for different user types.
+<li>Led as product manager for an agriculture-focused digital marketplace — platform vision, user needs, PRDs, and cross-functional delivery with a focus on usability for different user types.</li>
 
 ---
 
 ## Tools I'm learning
 
-- Python & SQL
-- HTML / CSS
-- Java
-- React & Node.js
+<li>Python & SQL</li>
+<li>HTML / CSS</li>
+<li>Java</li>
+<li>React & Node.js</li>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,postgres,html,css,java,react,nodejs,git&perline=8" alt="Tech stack icons" />
