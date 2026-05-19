@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="160" viewBox="0 0 920 160" role="img" aria-label="Hello World, I'm Aidan">
+  <!-- Sketch-style double border -->
+  <rect x="6" y="10" width="908" height="140" rx="14" fill="#1e3a8a" stroke="#020617" stroke-width="5"/>
+  <rect x="18" y="22" width="884" height="116" rx="10" fill="#2563eb" stroke="#020617" stroke-width="4"/>
+  <rect x="28" y="32" width="864" height="96" rx="8" fill="#3b82f6"/>
+  <text x="460" y="98"
+        font-family="'Comic Sans MS', 'Chalkboard SE', 'Segoe Print', cursive"
+        font-size="46"
+        font-weight="700"
+        fill="#ffffff"
+        text-anchor="middle">Hello World, I'm Aidan!</text>
+</svg>

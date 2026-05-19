@@ -1,0 +1,18 @@
+name: Add a word to the cloud
+description: Contribute one word to the community word cloud
+title: "word: "
+labels:
+  - word-cloud
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for joining the cloud! One word per issue, please — keep it fun and SFW.
+  - type: textarea
+    id: word
+    attributes:
+      label: Your word
+      description: A single word or short phrase (max ~40 characters)
+      placeholder: e.g. TypeScript, rubber duck, ship it
+    validations:
+      required: true
