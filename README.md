@@ -15,7 +15,7 @@
 
 ---
 
-I went to **UBC** and I'm majoring in **Finance** — but I'm a **self-taught coder** on the side. Huge shoutout to **Codecademy**, **Coursera**, and everyone else who helped me on this journey 😂
+I'm 3rd year student at **UBC** and I'm majoring in **Finance** — but I'm also a **self-taught coder** on the side. Huge shoutout to **Codecademy**, **Coursera**, and everyone else who helped me on this journey 😂
 
 I'm still fairly new to programming and learning every week. Right now I'm most comfortable with **Python** and **SQL**. I also work with **HTML**, **CSS**, **Java**, **React**, and **Node.js**.
 
